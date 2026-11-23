@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A spreadsheet exported to another app: the decrypted .xlsx, written only when the user shares one,
+     and cleared at sign-out. -->
+<paths>
+    <cache-path name="exports" path="exports/" />
+</paths>
